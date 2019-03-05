@@ -194,11 +194,11 @@ hr.invis {
 .navbar-inverse {
     padding: 0.6rem;
     z-index: 1;
-    background-color: #121212;
-    border: 10px solid #121212;
+    background-color: #ffffff;
+    border: 10px solid #ffffff;
     -webkit-box-shadow: inset 0px 0px 0px 2px #313131;
     -moz-box-shadow: inset 0px 0px 0px 2px #313131;
-    box-shadow: inset 0px 0px 0px 2px #313131;
+    box-shadow: inset 0px 0px 0px 2px #ffffff;
 }
 
 .navbar-inverse .navbar-nav .nav-link,
@@ -208,7 +208,7 @@ hr.invis {
     line-height: 1;
     padding: 0.9rem 0 0.8rem;
     text-transform: capitalize;
-    color: #ffffff;
+    color: #02a1fd;
 }
 
 .dropdown-toggle::after {
