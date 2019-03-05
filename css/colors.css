@@ -57,8 +57,8 @@ div.tab button.active,
 .topbar-section,
 .navbar-inverse .navbar-toggler {
     color: #ffffff !important;
-    border-color: #6b9e10;
-    background-color: #6b9e10;
+    border-color: #02a1fd;
+    background-color: #02a1fd;
 }
 
 .testimonials blockquote:hover:after {
