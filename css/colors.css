@@ -81,9 +81,9 @@ div.tab button.active,
 
 .contact-details h1,
 .absolute-widget {
-    -webkit-box-shadow: inset 0px 0px 0px 2px #529100;
-    -moz-box-shadow: inset 0px 0px 0px 2px #529100;
-    box-shadow: inset 0px 0px 0px 2px #529100;
+    -webkit-box-shadow: inset 0px 0px 0px 2px #7ed0ff;
+    -moz-box-shadow: inset 0px 0px 0px 2px #7ed0ff;
+    box-shadow: inset 0px 0px 0px 2px #7ed0ff;
 }
 
 .absolute-widget::before {
