@@ -979,7 +979,7 @@ div.tab button.active,
 }
 
 .readmore:after {
-    content: "\f1bb";
+    content: "\f061";
     font-family: "FontAwesome";
     font-size: 14px;
     left: 0;
